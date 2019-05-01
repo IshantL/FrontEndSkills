@@ -17,6 +17,11 @@ My personal Skill Notes:
 
 8.Formik
 
+# Must
+
+1. HTML
+2. CSS
+3. JavaScript
 
 # Backend Skills
 
